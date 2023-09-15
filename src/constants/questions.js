@@ -1,0 +1,9 @@
+export const DATA_RECEIVED = "dataReceived";
+export const DATA_FAILED = "dataFailed";
+export const START = "start";
+export const NEW_ANSWER = "newAnswer";
+export const NEXT_QUESTION = "nextQuestion";
+export const FINISH_GAME = "finishGame";
+export const RESTART_GAME = "restartGame";
+export const TICK = "tick";
+export const SECONDS_PER_QUESTION = 30;
